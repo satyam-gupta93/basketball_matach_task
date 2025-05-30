@@ -1,0 +1,62 @@
+/* App.css */
+
+body {
+  margin: 0; /
+}
+
+.container {
+  font-family: 'Segoe UI', sans-serif;
+  padding: 20px;
+  background-color: #282c36; 
+  min-height: 100vh;
+  color: #e0e0e0; 
+}
+
+.title {
+  color: #61dafb; 
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 2em;
+}
+
+.error {
+  color: #ff6b6b; 
+  font-weight: bold;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.message {
+  color: #a0a0a0; 
+  text-align: center;
+  margin-top: 15px;
+  font-style: italic;
+}
+
+.list {
+  list-style-type: none;
+  padding-left: 0;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.item {
+  background-color: #3a404d; 
+  margin-bottom: 10px;
+  padding: 15px 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.teams {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #e0e0e0; /
+}
+
+.details,
+.league {
+  font-size: 0.9em;
+  color: #a0a0a0; 
+}
