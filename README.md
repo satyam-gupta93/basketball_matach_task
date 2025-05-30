@@ -4,7 +4,7 @@ A simple and elegant React app that displays **upcoming basketball matches** in 
 
 ## 📸 App Preview
 
-![App Screenshot](./public/screenshot.png)
+![App Screenshot](./frontend/public/preview.png)
 <!-- Replace with your actual path if different -->
 
 ## 🔍 Features
