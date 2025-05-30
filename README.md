@@ -9,7 +9,7 @@ A simple and elegant React app that displays **upcoming basketball matches** in 
 
 ## 🔍 Features
 
-- ✅ Shows only **2 upcoming basketball matches**
+
 - 🌙 Beautiful **dark theme**
 - 🎨 Stylish UI using **Flexbox**, **Box Shadow**, and **Hover Effects**
 - ⚡ Fetches match data from backend API
